@@ -53,5 +53,5 @@
     <bool name="config_alternateFastchargeInfoUpdate">false</bool>
 
     <!-- Unlock ripple animation -->
-    <bool name="config_enableUnlockRippleAnimation">true</bool>
+    <bool name="config_enableUnlockRippleAnimation">false</bool>
 </resources>
